@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>你的姓名 - Publication</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <nav class="top-nav">
+        <a href="index.html">Home</a>
+        <a href="biography.html">Biography</a>
+        <a class="active" href="publication.html">Publication</a>
+        <a href="selected.html">Selected</a>
+      </nav>
+
+      <div class="home-title-line">Publication</div>
+
+      <p>
+        My
+        <a
+          href="https://scholar.google.com/citations?hl=en&user=ljYwQuMAAAAJ&view_op=list_works&sortby=pubdate"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Google Scholar</a
+        >
+        Page
+      </p>
+
+      <h2 class="bio-section-title">Offshore Wind Energy</h2>
+      <ul id="pub-offshore"></ul>
+      <div id="pager-offshore" class="pagination"></div>
+
+      <h2 class="bio-section-title">Ocean Environment</h2>
+      <ul id="pub-ocean"></ul>
+      <div id="pager-ocean" class="pagination"></div>
+
+      <footer class="footer">
+        Last updated: 2026-04-21
+      </footer>
+    </div>
+    <style>
+      .highly-cited {
+        color: #c00000;
+        font-weight: 600;
+      }
+
+      .pagination {
+        margin: 8px 0 16px;
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        font-size: 14px;
+      }
+
+      .pagination button {
+        border: 1px solid #bdbdbd;
+        background: #fff;
+        color: #333;
+        padding: 2px 8px;
+        cursor: pointer;
+      }
+
+      .pagination button:disabled {
+        color: #999;
+        border-color: #d9d9d9;
+        cursor: not-allowed;
+      }
+    </style>
+    <script>
+      const PAGE_SIZE = 10;
+      const sectionState = {};
+
+      const escapeHtml = (text) =>
+        text
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#39;");
+
+      const renderEntries = (entries) =>
+        entries
+          .map((entry) => {
+            const suffix = ` (${entry.year}). ${entry.title}. ${entry.venue}.`;
+            const authorsPart = entry.apa.endsWith(suffix)
+              ? entry.apa.slice(0, -suffix.length)
+              : entry.apa;
+
+            const citation =
+              `${escapeHtml(authorsPart)} (${entry.year}). ` +
+              `${escapeHtml(entry.title)}. ` +
+              `<em>${escapeHtml(entry.venue)}</em>.`;
+            const url = escapeHtml(entry.url);
+            const highlyCitedTag = entry.highlyCited
+              ? ` <span class="highly-cited">(Highly cited paper)</span>`
+              : "";
+            return `<li>${citation} [<a href="${url}" target="_blank" rel="noopener noreferrer">URL</a>]${highlyCitedTag}</li>`;
+          })
+          .join("");
+
+      const renderSection = (sectionKey) => {
+        const state = sectionState[sectionKey];
+        if (!state) return;
+
+        const listEl = document.getElementById(state.listId);
+        const pagerEl = document.getElementById(state.pagerId);
+        if (!listEl || !pagerEl) return;
+
+        if (!state.entries.length) {
+          listEl.innerHTML = "<li>No entries found.</li>";
+          pagerEl.innerHTML = "";
+          return;
+        }
+
+        const totalPages = Math.ceil(state.entries.length / PAGE_SIZE);
+        state.page = Math.min(Math.max(state.page, 1), totalPages);
+
+        const start = (state.page - 1) * PAGE_SIZE;
+        const currentSlice = state.entries.slice(start, start + PAGE_SIZE);
+        listEl.innerHTML = renderEntries(currentSlice);
+
+        pagerEl.innerHTML = `
+          <button type="button" ${state.page === 1 ? "disabled" : ""} data-role="prev">Prev</button>
+          <span>Page ${state.page} / ${totalPages}</span>
+          <button type="button" ${state.page === totalPages ? "disabled" : ""} data-role="next">Next</button>
+        `;
+
+        const prevBtn = pagerEl.querySelector('button[data-role="prev"]');
+        const nextBtn = pagerEl.querySelector('button[data-role="next"]');
+        if (prevBtn) {
+          prevBtn.addEventListener("click", () => {
+            state.page -= 1;
+            renderSection(sectionKey);
+          });
+        }
+        if (nextBtn) {
+          nextBtn.addEventListener("click", () => {
+            state.page += 1;
+            renderSection(sectionKey);
+          });
+        }
+      };
+
+      const initSection = (sectionKey, listId, pagerId, entries) => {
+        sectionState[sectionKey] = {
+          listId,
+          pagerId,
+          entries,
+          page: 1,
+        };
+        renderSection(sectionKey);
+      };
+
+      const sortByYearDesc = (items) =>
+        [...items].sort(
+          (a, b) => (b.year || 0) - (a.year || 0) || a.title.localeCompare(b.title)
+        );
+
+      fetch("scholar_entries.json")
+        .then((resp) => resp.json())
+        .then((entries) => {
+          const forceIncludeInOceanTitles = new Set([
+            "Constrained deep reinforcement transfer learning for short-term forecasting of wind discrepancies at ocean stations",
+            "Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history",
+            "2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model",
+          ]);
+
+          const offshoreExcludeTitles = new Set([
+            "A physics-informed deep learning model to reconstruct turbulent wake from random sparse data",
+            "Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill",
+            "Spatio-Temporal-Transformation-based Method for Hour-Ahead Wind Power Forecasting",
+            "Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks",
+            "A Novel Optimization Framework for Offshore Wind Turbine Placement with Grid Pre-Planning and Coordinate Fine-Tuning",
+          ]);
+          const highlyCitedTitles = new Set([
+            "2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model",
+            "Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history",
+          ]);
+          const oceanExcludeTitles = new Set([
+            "Beyond a single solution: Multimodal wind farm layout optimization via cluster annealing elite search",
+            "Equivalent obstacle star method for collision avoidance of unmanned surface vehicles in restricted waters",
+            "Develop a surrogate model for optimizing the aspect ratio parameter in the flow around an elliptic cylinder",
+            "Path planning of the unmanned surface vehicle in island and reef environments with time-varying vortices",
+            "Uncertainty-aware deep distributed reinforcement learning for autonomous navigation of unmanned surface vehicles in complex environments",
+            "Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks",
+            "Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement",
+          ]);
+
+          const applyCustomRules = (entry) => {
+            const updated = { ...entry };
+
+            if (
+              updated.title ===
+              "A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed"
+            ) {
+              updated.apa = updated.apa.replace("ϕ-shape", "φ-shape");
+            }
+
+            updated.highlyCited = highlyCitedTitles.has(updated.title);
+            if (
+              updated.title ===
+              "TemproNet: A transformer-based deep learning model for seawater temperature prediction"
+            ) {
+              updated.highlyCited = true;
+            }
+
+            return updated;
+          };
+
+          const offshoreEntries = entries
+            .filter(
+              (e) =>
+                e.categories.includes("offshore") &&
+                !offshoreExcludeTitles.has(e.title)
+            )
+            .map(applyCustomRules);
+
+          const oceanEntries = entries
+            .filter(
+              (e) =>
+                e.categories.includes("ocean") &&
+                !oceanExcludeTitles.has(e.title)
+            )
+            .map(applyCustomRules);
+
+          forceIncludeInOceanTitles.forEach((title) => {
+            const selectedPaper = entries.find((e) => e.title === title);
+            const alreadyInOcean = oceanEntries.some((e) => e.title === title);
+            if (selectedPaper && !alreadyInOcean) {
+              oceanEntries.push(applyCustomRules(selectedPaper));
+            }
+          });
+
+          initSection(
+            "offshore",
+            "pub-offshore",
+            "pager-offshore",
+            sortByYearDesc(offshoreEntries)
+          );
+          initSection(
+            "ocean",
+            "pub-ocean",
+            "pager-ocean",
+            sortByYearDesc(oceanEntries)
+          );
+        })
+        .catch(() => {
+          initSection("offshore", "pub-offshore", "pager-offshore", []);
+          initSection("ocean", "pub-ocean", "pager-ocean", []);
+        });
+    </script>
+  </body>
+</html>

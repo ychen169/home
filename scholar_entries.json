@@ -1,0 +1,654 @@
+[
+  {
+    "title": "Global optimization of wake steering for large-scale wind farms using generalized serial refinement method",
+    "year": 2026,
+    "authors_raw": "Y Tu, Z Dong, Y Chen, K Zhang, D Zhou, H Yang",
+    "venue": "Applied Energy 406, 127259",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:JV2RwH3_ST0C",
+    "pdf": "https://scholar.google.com/scholar?q=Global+optimization+of+wake+steering+for+large-scale+wind+farms+using+generalized+serial+refinement+method+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Tu, Y., Dong, Z., Chen, Y., Zhang, K., Zhou, D., Yang, H. (2026). Global optimization of wake steering for large-scale wind farms using generalized serial refinement method. Applied Energy 406, 127259."
+  },
+  {
+    "title": "Equivalent obstacle star method for collision avoidance of unmanned surface vehicles in restricted waters",
+    "year": 2026,
+    "authors_raw": "J Liu, S Xie, D Zhang, Y Chen, Y Peng, Y Wang, H Yan",
+    "venue": "Ocean Engineering 348, 124096",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:BqipwSGYUEgC",
+    "pdf": "https://scholar.google.com/scholar?q=Equivalent+obstacle+star+method+for+collision+avoidance+of+unmanned+surface+vehicles+in+restricted+waters+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Liu, J., Xie, S., Zhang, D., Chen, Y., Peng, Y., Wang, Y., Yan, H. (2026). Equivalent obstacle star method for collision avoidance of unmanned surface vehicles in restricted waters. Ocean Engineering 348, 124096."
+  },
+  {
+    "title": "Efficient Turbine Placement Optimization in Large-Scale Offshore Wind Farms: A Space-Constrained Deep Reinforcement Learning Algorithm",
+    "year": 2026,
+    "authors_raw": "C Pan, Z Zhang, S Wen, M Zhu, Z Han, Y Chen",
+    "venue": "Energy, 139929",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:blknAaTinKkC",
+    "pdf": "https://scholar.google.com/scholar?q=Efficient+Turbine+Placement+Optimization+in+Large-Scale+Offshore+Wind+Farms%3A+A+Space-Constrained+Deep+Reinforcement+Learning+Algorithm+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Pan, C., Zhang, Z., Wen, S., Zhu, M., Han, Z., Chen, Y. (2026). Efficient Turbine Placement Optimization in Large-Scale Offshore Wind Farms: A Space-Constrained Deep Reinforcement Learning Algorithm. Energy, 139929."
+  },
+  {
+    "title": "Beyond a single solution: Multimodal wind farm layout optimization via cluster annealing elite search",
+    "year": 2026,
+    "authors_raw": "Y Chen, Z Dong, D Zhang, X Deng, D Zhou, Y Zhou, Y Peng",
+    "venue": "Applied Energy 414, 127852",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:GnPB-g6toBAC",
+    "pdf": "https://scholar.google.com/scholar?q=Beyond+a+single+solution%3A+Multimodal+wind+farm+layout+optimization+via+cluster+annealing+elite+search+filetype%3Apdf",
+    "categories": [
+      "offshore",
+      "ocean"
+    ],
+    "apa": "Chen, Y., Dong, Z., Zhang, D., Deng, X., Zhou, D., Zhou, Y., Peng, Y. (2026). Beyond a single solution: Multimodal wind farm layout optimization via cluster annealing elite search. Applied Energy 414, 127852."
+  },
+  {
+    "title": "A Spatio-Temporal Transformation-Enhanced Dual Spatiotemporal Attention Network for Hour-Ahead Wind Turbine Cluster Power Forecasting",
+    "year": 2026,
+    "authors_raw": "C Pan, S Wen, S Jiang, M Zhu, Y Chen",
+    "venue": "IEEE Transactions on Industry Applications",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:hMod-77fHWUC",
+    "pdf": "https://scholar.google.com/scholar?q=A+Spatio-Temporal+Transformation-Enhanced+Dual+Spatiotemporal+Attention+Network+for+Hour-Ahead+Wind+Turbine+Cluster+Power+Forecasting+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Pan, C., Wen, S., Jiang, S., Zhu, M., Chen, Y. (2026). A Spatio-Temporal Transformation-Enhanced Dual Spatiotemporal Attention Network for Hour-Ahead Wind Turbine Cluster Power Forecasting. IEEE Transactions on Industry Applications."
+  },
+  {
+    "title": "Wake characteristics of 5-MW floating VAWTs under coupled pitch-surge motions: A numerical analysis",
+    "year": 2025,
+    "authors_raw": "D Zhang, J Chen, Y Chen, L Kuang, Z Wu, Y Peng, D Zhou, Y Tu",
+    "venue": "Renewable Energy, 124669",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:NMxIlDl6LWMC",
+    "pdf": "https://scholar.google.com/scholar?q=Wake+characteristics+of+5-MW+floating+VAWTs+under+coupled+pitch-surge+motions%3A+A+numerical+analysis+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhang, D., Chen, J., Chen, Y., Kuang, L., Wu, Z., Peng, Y., Zhou, D., Tu, Y. (2025). Wake characteristics of 5-MW floating VAWTs under coupled pitch-surge motions: A numerical analysis. Renewable Energy, 124669."
+  },
+  {
+    "title": "Uncertainty-aware deep distributed reinforcement learning for autonomous navigation of unmanned surface vehicles in complex environments",
+    "year": 2025,
+    "authors_raw": "M Huang, X Li, Z Li, D Zhang, Y Chen",
+    "venue": "Ocean Engineering 342, 122899",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:k_IJM867U9cC",
+    "pdf": "https://scholar.google.com/scholar?q=Uncertainty-aware+deep+distributed+reinforcement+learning+for+autonomous+navigation+of+unmanned+surface+vehicles+in+complex+environments+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Huang, M., Li, X., Li, Z., Zhang, D., Chen, Y. (2025). Uncertainty-aware deep distributed reinforcement learning for autonomous navigation of unmanned surface vehicles in complex environments. Ocean Engineering 342, 122899."
+  },
+  {
+    "title": "Super-resolution reconstruction of subsurface temperature field in South China Sea using satellite observations",
+    "year": 2025,
+    "authors_raw": "H Wu, Z Zhao, D Zhang, X Zhou, Y Chen",
+    "venue": "Physics of Fluids 37 (3)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:RHpTSmoSYBkC",
+    "pdf": "https://scholar.google.com/scholar?q=Super-resolution+reconstruction+of+subsurface+temperature+field+in+South+China+Sea+using+satellite+observations+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Wu, H., Zhao, Z., Zhang, D., Zhou, X., Chen, Y. (2025). Super-resolution reconstruction of subsurface temperature field in South China Sea using satellite observations. Physics of Fluids 37 (3)."
+  },
+  {
+    "title": "Revisiting the efficacy of signal decomposition in AI-based time series prediction",
+    "year": 2025,
+    "authors_raw": "D Zhang, K Jiang, C Wu, Y Peng, Z Han, Y Chen",
+    "venue": "The International Conference Optoelectronic Information and Optical …",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:dhFuZR0502QC",
+    "pdf": "https://scholar.google.com/scholar?q=Revisiting+the+efficacy+of+signal+decomposition+in+AI-based+time+series+prediction+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Zhang, D., Jiang, K., Wu, C., Peng, Y., Han, Z., Chen, Y. (2025). Revisiting the efficacy of signal decomposition in AI-based time series prediction. The International Conference Optoelectronic Information and Optical …."
+  },
+  {
+    "title": "Path planning of the unmanned surface vehicle in island and reef environments with time-varying vortices",
+    "year": 2025,
+    "authors_raw": "D Zhang, Y Wang, Y Chen, J Liu, X Zhou, Y Peng, S Xie",
+    "venue": "Ocean Engineering 320, 120231",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:HDshCWvjkbEC",
+    "pdf": "https://scholar.google.com/scholar?q=Path+planning+of+the+unmanned+surface+vehicle+in+island+and+reef+environments+with+time-varying+vortices+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Zhang, D., Wang, Y., Chen, Y., Liu, J., Zhou, X., Peng, Y., Xie, S. (2025). Path planning of the unmanned surface vehicle in island and reef environments with time-varying vortices. Ocean Engineering 320, 120231."
+  },
+  {
+    "title": "Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction",
+    "year": 2025,
+    "authors_raw": "X Li, N Tao, D Zhang, W Liu, Y Peng, Y Cao, Y Chen",
+    "venue": "Physics of Fluids 37 (2)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:_Qo2XoVZTnwC",
+    "pdf": "https://scholar.google.com/scholar?q=Multi-scale+boundary-enhanced+diffusion+network+for+high-resolution+sea+surface+height+reconstruction+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Li, X., Tao, N., Zhang, D., Liu, W., Peng, Y., Cao, Y., Chen, Y. (2025). Multi-scale boundary-enhanced diffusion network for high-resolution sea surface height reconstruction. Physics of Fluids 37 (2)."
+  },
+  {
+    "title": "Impact of rotor solidity and blade number on wake characteristics of vertical-axis wind turbines",
+    "year": 2025,
+    "authors_raw": "R Yushan, D Zhou, R Zhang, Y Chen, L Kuang, K Zhang, Z Han, H Zhu",
+    "venue": "Physics of Fluids 37 (1)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:R3hNpaxXUhUC",
+    "pdf": "https://scholar.google.com/scholar?q=Impact+of+rotor+solidity+and+blade+number+on+wake+characteristics+of+vertical-axis+wind+turbines+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Yushan, R., Zhou, D., Zhang, R., Chen, Y., Kuang, L., Zhang, K., Han, Z., Zhu, H. (2025). Impact of rotor solidity and blade number on wake characteristics of vertical-axis wind turbines. Physics of Fluids 37 (1)."
+  },
+  {
+    "title": "Grid residual adaptive resampling for physics-informed neural networks to solve incompressible Navier–Stokes equations",
+    "year": 2025,
+    "authors_raw": "L Gao, D Zhang, Y Chen, Y Tu, X Zhang, X Li",
+    "venue": "Journal of Applied Physics 137 (15)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:4JMBOYKVnBMC",
+    "pdf": "https://scholar.google.com/scholar?q=Grid+residual+adaptive+resampling+for+physics-informed+neural+networks+to+solve+incompressible+Navier%E2%80%93Stokes+equations+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Gao, L., Zhang, D., Chen, Y., Tu, Y., Zhang, X., Li, X. (2025). Grid residual adaptive resampling for physics-informed neural networks to solve incompressible Navier–Stokes equations. Journal of Applied Physics 137 (15)."
+  },
+  {
+    "title": "Global–local adaptive resampling strategy for enhancing the performance of Physics-informed neural networks",
+    "year": 2025,
+    "authors_raw": "L Gao, D Zhang, Y Chen, X Li, C Li, Y Peng",
+    "venue": "Engineering Applications of Artificial Intelligence 158, 111283",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:r0BpntZqJG4C",
+    "pdf": "https://scholar.google.com/scholar?q=Global%E2%80%93local+adaptive+resampling+strategy+for+enhancing+the+performance+of+Physics-informed+neural+networks+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Gao, L., Zhang, D., Chen, Y., Li, X., Li, C., Peng, Y. (2025). Global–local adaptive resampling strategy for enhancing the performance of Physics-informed neural networks. Engineering Applications of Artificial Intelligence 158, 111283."
+  },
+  {
+    "title": "Generalizable super-resolution turbulence reconstruction from minimal training data",
+    "year": 2025,
+    "authors_raw": "H Wu, Y Cao, Y Chen, S Laima, WL Chen, D Zhou, H Li",
+    "venue": "Journal of Fluid Mechanics 1024, A27",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:M3NEmzRMIkIC",
+    "pdf": "https://scholar.google.com/scholar?q=Generalizable+super-resolution+turbulence+reconstruction+from+minimal+training+data+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Wu, H., Cao, Y., Chen, Y., Laima, S., Chen, WL., Zhou, D., Li, H. (2025). Generalizable super-resolution turbulence reconstruction from minimal training data. Journal of Fluid Mechanics 1024, A27."
+  },
+  {
+    "title": "Enhanced underwater acoustic target recognition using parallel dual-branch network with attention mechanism",
+    "year": 2025,
+    "authors_raw": "J Xu, X Li, D Zhang, Y Chen, Y Peng, W Liu",
+    "venue": "Engineering Applications of Artificial Intelligence 158, 111603",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:iH-uZ7U-co4C",
+    "pdf": "https://scholar.google.com/scholar?q=Enhanced+underwater+acoustic+target+recognition+using+parallel+dual-branch+network+with+attention+mechanism+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Xu, J., Li, X., Zhang, D., Chen, Y., Peng, Y., Liu, W. (2025). Enhanced underwater acoustic target recognition using parallel dual-branch network with attention mechanism. Engineering Applications of Artificial Intelligence 158, 111603."
+  },
+  {
+    "title": "Develop a surrogate model for optimizing the aspect ratio parameter in the flow around an elliptic cylinder",
+    "year": 2025,
+    "authors_raw": "L Gao, Y Chen, D Zhang, X Li, X Zhang, Y Peng, G Zhang",
+    "venue": "Ocean Engineering 341, 122652",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:TFP_iSt0sucC",
+    "pdf": "https://scholar.google.com/scholar?q=Develop+a+surrogate+model+for+optimizing+the+aspect+ratio+parameter+in+the+flow+around+an+elliptic+cylinder+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Gao, L., Chen, Y., Zhang, D., Li, X., Zhang, X., Peng, Y., Zhang, G. (2025). Develop a surrogate model for optimizing the aspect ratio parameter in the flow around an elliptic cylinder. Ocean Engineering 341, 122652."
+  },
+  {
+    "title": "Constrained deep reinforcement transfer learning for short-term forecasting of wind discrepancies at ocean stations",
+    "year": 2025,
+    "authors_raw": "J Zhang, Y Chen, H Pan, L Cao, C Li",
+    "venue": "Neurocomputing 624, 129491",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:e5wmG9Sq2KIC",
+    "pdf": "https://scholar.google.com/scholar?q=Constrained+deep+reinforcement+transfer+learning+for+short-term+forecasting+of+wind+discrepancies+at+ocean+stations+filetype%3Apdf",
+    "categories": [
+      "offshore",
+      "ocean"
+    ],
+    "apa": "Zhang, J., Chen, Y., Pan, H., Cao, L., Li, C. (2025). Constrained deep reinforcement transfer learning for short-term forecasting of wind discrepancies at ocean stations. Neurocomputing 624, 129491."
+  },
+  {
+    "title": "Aerodynamics prediction of vertical-axis wind turbines based on meta learning under regional interactions",
+    "year": 2025,
+    "authors_raw": "R Zhang, L Zhan, R Yushan, Y Chen, L Kuang, Y Tu, Z Han, D Zhou",
+    "venue": "Energy Conversion and Management 332, 119727",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:j3f4tGmQtD8C",
+    "pdf": "https://scholar.google.com/scholar?q=Aerodynamics+prediction+of+vertical-axis+wind+turbines+based+on+meta+learning+under+regional+interactions+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhang, R., Zhan, L., Yushan, R., Chen, Y., Kuang, L., Tu, Y., Han, Z., Zhou, D. (2025). Aerodynamics prediction of vertical-axis wind turbines based on meta learning under regional interactions. Energy Conversion and Management 332, 119727."
+  },
+  {
+    "title": "A multi-fidelity framework for power prediction of wind farm under yaw misalignment",
+    "year": 2025,
+    "authors_raw": "Y Tu, Y Chen, K Zhang, R He, Z Han, D Zhou",
+    "venue": "Applied Energy 377, 124600",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:-f6ydRqryjwC",
+    "pdf": "https://scholar.google.com/scholar?q=A+multi-fidelity+framework+for+power+prediction+of+wind+farm+under+yaw+misalignment+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Tu, Y., Chen, Y., Zhang, K., He, R., Han, Z., Zhou, D. (2025). A multi-fidelity framework for power prediction of wind farm under yaw misalignment. Applied Energy 377, 124600."
+  },
+  {
+    "title": "A Novel Optimization Framework for Offshore Wind Turbine Placement with Grid Pre-Planning and Coordinate Fine-Tuning",
+    "year": 2025,
+    "authors_raw": "C Pan, S Wen, M Zhu, Z Han, Y Chen, P Lin",
+    "venue": "2025 IEEE Industry Applications Society Annual Meeting (IAS), 1-6",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:bEWYMUwI8FkC",
+    "pdf": "https://scholar.google.com/scholar?q=A+Novel+Optimization+Framework+for+Offshore+Wind+Turbine+Placement+with+Grid+Pre-Planning+and+Coordinate+Fine-Tuning+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Pan, C., Wen, S., Zhu, M., Han, Z., Chen, Y., Lin, P. (2025). A Novel Optimization Framework for Offshore Wind Turbine Placement with Grid Pre-Planning and Coordinate Fine-Tuning. 2025 IEEE Industry Applications Society Annual Meeting (IAS), 1-6."
+  },
+  {
+    "title": "WindFix: Harnessing the power of self-supervised learning for versatile imputation of offshore wind speed time series",
+    "year": 2024,
+    "authors_raw": "Y Chen, C Cai, L Cao, D Zhang, L Kuang, Y Peng, H Pu, C Wu, D Zhou, ...",
+    "venue": "Energy 287, 128995",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:QIV2ME_5wuYC",
+    "pdf": "https://scholar.google.com/scholar?q=WindFix%3A+Harnessing+the+power+of+self-supervised+learning+for+versatile+imputation+of+offshore+wind+speed+time+series+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Chen, Y., Cai, C., Cao, L., Zhang, D., Kuang, L., Peng, Y., Pu, H., Wu, C., Zhou, D. (2024). WindFix: Harnessing the power of self-supervised learning for versatile imputation of offshore wind speed time series. Energy 287, 128995."
+  },
+  {
+    "title": "TemproNet: A transformer-based deep learning model for seawater temperature prediction",
+    "year": 2024,
+    "authors_raw": "Q Chen, C Cai, Y Chen, X Zhou, D Zhang, Y Peng",
+    "venue": "Ocean Engineering 293, 116651",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:Wp0gIr-vW9MC",
+    "pdf": "https://scholar.google.com/scholar?q=TemproNet%3A+A+transformer-based+deep+learning+model+for+seawater+temperature+prediction+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Chen, Q., Cai, C., Chen, Y., Zhou, X., Zhang, D., Peng, Y. (2024). TemproNet: A transformer-based deep learning model for seawater temperature prediction. Ocean Engineering 293, 116651."
+  },
+  {
+    "title": "Spatio-Temporal-Transformation-based Method for Hour-Ahead Wind Power Forecasting",
+    "year": 2024,
+    "authors_raw": "C Pan, S Jiang, S Wen, Y Chen, M Zhu",
+    "venue": "2024 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), 581-586",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:isC4tDSrTZIC",
+    "pdf": "https://scholar.google.com/scholar?q=Spatio-Temporal-Transformation-based+Method+for+Hour-Ahead+Wind+Power+Forecasting+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Pan, C., Jiang, S., Wen, S., Chen, Y., Zhu, M. (2024). Spatio-Temporal-Transformation-based Method for Hour-Ahead Wind Power Forecasting. 2024 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), 581-586."
+  },
+  {
+    "title": "SRENet: Structure recovery ensemble network for single image deraining",
+    "year": 2024,
+    "authors_raw": "D Zhang, Y Xu, L Ma, X Li, X Zhang, Y Peng, Y Chen",
+    "venue": "Applied Intelligence 54 (5), 4425-4442",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:9ZlFYXVOiuMC",
+    "pdf": "https://scholar.google.com/scholar?q=SRENet%3A+Structure+recovery+ensemble+network+for+single+image+deraining+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Zhang, D., Xu, Y., Ma, L., Li, X., Zhang, X., Peng, Y., Chen, Y. (2024). SRENet: Structure recovery ensemble network for single image deraining. Applied Intelligence 54 (5), 4425-4442."
+  },
+  {
+    "title": "Full-scale vs. scaled aerodynamics of 5-MW offshore VAWTs under pitch motion: A numerical analysis",
+    "year": 2024,
+    "authors_raw": "D Zhang, Z Wu, Y Chen, L Kuang, Y Peng, D Zhou, Y Tu",
+    "venue": "Applied Energy 372, 123822",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:ZeXyd9-uunAC",
+    "pdf": "https://scholar.google.com/scholar?q=Full-scale+vs.+scaled+aerodynamics+of+5-MW+offshore+VAWTs+under+pitch+motion%3A+A+numerical+analysis+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhang, D., Wu, Z., Chen, Y., Kuang, L., Peng, Y., Zhou, D., Tu, Y. (2024). Full-scale vs. scaled aerodynamics of 5-MW offshore VAWTs under pitch motion: A numerical analysis. Applied Energy 372, 123822."
+  },
+  {
+    "title": "Development of backward compatible physics-informed neural networks to reduce error accumulation based on a nested framework",
+    "year": 2024,
+    "authors_raw": "L Gao, Y Chen, G Hu, D Zhang, X Zhang, X Li",
+    "venue": "Physics of Fluids 36 (9)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:hFOr9nPyWt4C",
+    "pdf": "https://scholar.google.com/scholar?q=Development+of+backward+compatible+physics-informed+neural+networks+to+reduce+error+accumulation+based+on+a+nested+framework+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Gao, L., Chen, Y., Hu, G., Zhang, D., Zhang, X., Li, X. (2024). Development of backward compatible physics-informed neural networks to reduce error accumulation based on a nested framework. Physics of Fluids 36 (9)."
+  },
+  {
+    "title": "Deep learning reconstruction of high-Reynolds-number turbulent flow field around a cylinder based on limited sensors",
+    "year": 2024,
+    "authors_raw": "R Li, B Song, Y Chen, X Jin, D Zhou, Z Han, WL Chen, Y Cao",
+    "venue": "Ocean Engineering 304, 117857",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:mVmsd5A6BfQC",
+    "pdf": "https://scholar.google.com/scholar?q=Deep+learning+reconstruction+of+high-Reynolds-number+turbulent+flow+field+around+a+cylinder+based+on+limited+sensors+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Li, R., Song, B., Chen, Y., Jin, X., Zhou, D., Han, Z., Chen, WL., Cao, Y. (2024). Deep learning reconstruction of high-Reynolds-number turbulent flow field around a cylinder based on limited sensors. Ocean Engineering 304, 117857."
+  },
+  {
+    "title": "ConvTrans-CL: Ocean time series temperature data anomaly detection based context contrast learning",
+    "year": 2024,
+    "authors_raw": "X Li, Y Chen, X Zhang, Y Peng, D Zhang, Y Chen",
+    "venue": "Applied Ocean Research 150, 104122",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:IWHjjKOFINEC",
+    "pdf": "https://scholar.google.com/scholar?q=ConvTrans-CL%3A+Ocean+time+series+temperature+data+anomaly+detection+based+context+contrast+learning+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Li, X., Chen, Y., Zhang, X., Peng, Y., Zhang, D., Chen, Y. (2024). ConvTrans-CL: Ocean time series temperature data anomaly detection based context contrast learning. Applied Ocean Research 150, 104122."
+  },
+  {
+    "title": "Bist-sa-lstm: A deep learning framework for end-to-end prediction of mesoscale eddy distribution in ocean",
+    "year": 2024,
+    "authors_raw": "Y Chen, Z Zhao, Y Yang, X Li, Y Peng, H Wu, X Zhou, D Zhang, H Wei",
+    "venue": "Journal of Marine Science and Engineering 13 (1), 52",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:TQgYirikUcIC",
+    "pdf": "https://scholar.google.com/scholar?q=Bist-sa-lstm%3A+A+deep+learning+framework+for+end-to-end+prediction+of+mesoscale+eddy+distribution+in+ocean+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Chen, Y., Zhao, Z., Yang, Y., Li, X., Peng, Y., Wu, H., Zhou, X., Zhang, D., Wei, H. (2024). Bist-sa-lstm: A deep learning framework for end-to-end prediction of mesoscale eddy distribution in ocean. Journal of Marine Science and Engineering 13 (1), 52."
+  },
+  {
+    "title": "Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill",
+    "year": 2024,
+    "authors_raw": "Y Shi, T Tao, H Wu, YR Chen, Z Han, D Zhou, WL Chen, Y Cao",
+    "venue": "Journal of Wind Engineering and Industrial Aerodynamics 254, 105910",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:mB3voiENLucC",
+    "pdf": "https://scholar.google.com/scholar?q=Assessment+of+turbulence+model+effects+on+WRF-LES+of+separated+turbulent+flows+past+a+3D+hill+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Shi, Y., Tao, T., Wu, H., Chen, YR., Han, Z., Zhou, D., Chen, WL., Cao, Y. (2024). Assessment of turbulence model effects on WRF-LES of separated turbulent flows past a 3D hill. Journal of Wind Engineering and Industrial Aerodynamics 254, 105910."
+  },
+  {
+    "title": "Ada2MF: Dual-adaptive multi-fidelity neural network approach and its application in wind turbine wake prediction",
+    "year": 2024,
+    "authors_raw": "L Zhan, Z Wang, Y Chen, L Kuang, Y Tu, D Zhou, Z Han, K Zhang",
+    "venue": "Engineering Applications of Artificial Intelligence 137, 109061",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:hC7cP41nSMkC",
+    "pdf": "https://scholar.google.com/scholar?q=Ada2MF%3A+Dual-adaptive+multi-fidelity+neural+network+approach+and+its+application+in+wind+turbine+wake+prediction+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhan, L., Wang, Z., Chen, Y., Kuang, L., Tu, Y., Zhou, D., Han, Z., Zhang, K. (2024). Ada2MF: Dual-adaptive multi-fidelity neural network approach and its application in wind turbine wake prediction. Engineering Applications of Artificial Intelligence 137, 109061."
+  },
+  {
+    "title": "A physics-informed deep learning model to reconstruct turbulent wake from random sparse data",
+    "year": 2024,
+    "authors_raw": "P Xie, R Li, Y Chen, B Song, WL Chen, D Zhou, Y Cao",
+    "venue": "Physics of Fluids 36 (6)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:7PzlFSSx8tAC",
+    "pdf": "https://scholar.google.com/scholar?q=A+physics-informed+deep+learning+model+to+reconstruct+turbulent+wake+from+random+sparse+data+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Xie, P., Li, R., Chen, Y., Song, B., Chen, WL., Zhou, D., Cao, Y. (2024). A physics-informed deep learning model to reconstruct turbulent wake from random sparse data. Physics of Fluids 36 (6)."
+  },
+  {
+    "title": "Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis",
+    "year": 2023,
+    "authors_raw": "L Kuang, R Zhang, J Su, Y Shao, K Zhang, Y Chen, Z Zhang, Y Tu, ...",
+    "venue": "Journal of Wind Engineering and Industrial Aerodynamics 233, 105284",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:kNdYIx-mwKoC",
+    "pdf": "https://scholar.google.com/scholar?q=Systematic+investigation+of+effect+of+rotor+solidity+on+vertical-axis+wind+turbines%3A+Power+performance+and+aerodynamics+analysis+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Kuang, L., Zhang, R., Su, J., Shao, Y., Zhang, K., Chen, Y., Zhang, Z., Tu, Y. (2023). Systematic investigation of effect of rotor solidity on vertical-axis wind turbines: Power performance and aerodynamics analysis. Journal of Wind Engineering and Industrial Aerodynamics 233, 105284."
+  },
+  {
+    "title": "Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks",
+    "year": 2023,
+    "authors_raw": "Y Chen, D Zhang, X Li, Y Peng, X Zhang, Z Han, Y Cao, Z Dong",
+    "venue": "Ocean Engineering 273, 113947",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:KlAtU1dfN6UC",
+    "pdf": "https://scholar.google.com/scholar?q=Surrogate+models+for+twin-VAWT+performance+based+on+Kriging+and+artificial+neural+networks+filetype%3Apdf",
+    "categories": [
+      "offshore",
+      "ocean"
+    ],
+    "apa": "Chen, Y., Zhang, D., Li, X., Peng, Y., Zhang, X., Han, Z., Cao, Y., Dong, Z. (2023). Surrogate models for twin-VAWT performance based on Kriging and artificial neural networks. Ocean Engineering 273, 113947."
+  },
+  {
+    "title": "Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement",
+    "year": 2023,
+    "authors_raw": "L Kuang, H Katsuchi, D Zhou, Y Chen, Z Han, K Zhang, J Wang, Y Bao, ...",
+    "venue": "Applied Energy 351, 121850",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:qxL8FJ1GzNcC",
+    "pdf": "https://scholar.google.com/scholar?q=Strategy+for+mitigating+wake+interference+between+offshore+vertical-axis+wind+turbines%3A+Evaluation+of+vertically+staggered+arrangement+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Kuang, L., Katsuchi, H., Zhou, D., Chen, Y., Han, Z., Zhang, K., Wang, J., Bao, Y. (2023). Strategy for mitigating wake interference between offshore vertical-axis wind turbines: Evaluation of vertically staggered arrangement. Applied Energy 351, 121850."
+  },
+  {
+    "title": "Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks",
+    "year": 2023,
+    "authors_raw": "H Wu, Y Chen, P Xie, D Zhou, T Tamura, K Zhang, S Cao, Y Cao",
+    "venue": "Journal of Wind Engineering and Industrial Aerodynamics 242, 105574",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:aqlVkmm33-oC",
+    "pdf": "https://scholar.google.com/scholar?q=Sparse-measurement-based+peak+wind+pressure+evaluation+by+super-resolution+convolutional+neural+networks+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Wu, H., Chen, Y., Xie, P., Zhou, D., Tamura, T., Zhang, K., Cao, S., Cao, Y. (2023). Sparse-measurement-based peak wind pressure evaluation by super-resolution convolutional neural networks. Journal of Wind Engineering and Industrial Aerodynamics 242, 105574."
+  },
+  {
+    "title": "Significant wave height prediction through artificial intelligent mode decomposition for wave energy management",
+    "year": 2023,
+    "authors_raw": "Y Chen, D Zhang, X Li, Y Peng, C Wu, H Pu, D Zhou, Y Cao, J Zhang",
+    "venue": "Energy and AI 14, 100257",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:ULOm3_A8WrAC",
+    "pdf": "https://scholar.google.com/scholar?q=Significant+wave+height+prediction+through+artificial+intelligent+mode+decomposition+for+wave+energy+management+filetype%3Apdf",
+    "categories": [
+      "ocean"
+    ],
+    "apa": "Chen, Y., Zhang, D., Li, X., Peng, Y., Wu, C., Pu, H., Zhou, D., Cao, Y., Zhang, J. (2023). Significant wave height prediction through artificial intelligent mode decomposition for wave energy management. Energy and AI 14, 100257."
+  },
+  {
+    "title": "Lightweight strawberry instance segmentation on low-power devices for picking robots",
+    "year": 2023,
+    "authors_raw": "L Cao, Y Chen, Q Jin",
+    "venue": "Electronics 12 (14), 3145",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:M3ejUd6NZC8C",
+    "pdf": "https://scholar.google.com/scholar?q=Lightweight+strawberry+instance+segmentation+on+low-power+devices+for+picking+robots+filetype%3Apdf",
+    "categories": [
+      "others"
+    ],
+    "apa": "Cao, L., Chen, Y., Jin, Q. (2023). Lightweight strawberry instance segmentation on low-power devices for picking robots. Electronics 12 (14), 3145."
+  },
+  {
+    "title": "Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines",
+    "year": 2023,
+    "authors_raw": "Z Zhang, L Kuang, Z Han, D Zhou, Y Zhao, Y Bao, L Duan, J Tu, Y Chen, ...",
+    "venue": "Energy 281, 128252",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:4TOpqqG69KYC",
+    "pdf": "https://scholar.google.com/scholar?q=Comparative+analysis+of+bent+and+basic+winglets+on+performance+improvement+of+horizontal+axis+wind+turbines+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhang, Z., Kuang, L., Han, Z., Zhou, D., Zhao, Y., Bao, Y., Duan, L., Tu, J., Chen, Y. (2023). Comparative analysis of bent and basic winglets on performance improvement of horizontal axis wind turbines. Energy 281, 128252."
+  },
+  {
+    "title": "Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap",
+    "year": 2023,
+    "authors_raw": "Z Han, H Chen, Y Chen, J Su, D Zhou, H Zhu, T Xia, J Tu",
+    "venue": "Sustainable Energy Technologies and Assessments 57, 103250",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:YOwf2qJgpHMC",
+    "pdf": "https://scholar.google.com/scholar?q=Aerodynamic+performance+optimization+of+vertical+axis+wind+turbine+with+straight+blades+based+on+synergic+control+of+pitch+and+flap+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Han, Z., Chen, H., Chen, Y., Su, J., Zhou, D., Zhu, H., Xia, T., Tu, J. (2023). Aerodynamic performance optimization of vertical axis wind turbine with straight blades based on synergic control of pitch and flap. Sustainable Energy Technologies and Assessments 57, 103250."
+  },
+  {
+    "title": "Wind-capture-accelerate device for performance improvement of vertical-axis wind turbines: External diffuser system",
+    "year": 2022,
+    "authors_raw": "L Kuang, J Su, Y Chen, Z Han, D Zhou, K Zhang, Y Zhao, Y Bao",
+    "venue": "Energy 239, 122196",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:WF5omc3nYNoC",
+    "pdf": "https://scholar.google.com/scholar?q=Wind-capture-accelerate+device+for+performance+improvement+of+vertical-axis+wind+turbines%3A+External+diffuser+system+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Kuang, L., Su, J., Chen, Y., Han, Z., Zhou, D., Zhang, K., Zhao, Y., Bao, Y. (2022). Wind-capture-accelerate device for performance improvement of vertical-axis wind turbines: External diffuser system. Energy 239, 122196."
+  },
+  {
+    "title": "The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method",
+    "year": 2022,
+    "authors_raw": "Z Dong, Y Chen, D Zhou, J Su, Z Han, Y Cao, Y Bao, F Zhao, R Wang, ...",
+    "venue": "Energy 239, 122456",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:ufrVoPGSRksC",
+    "pdf": "https://scholar.google.com/scholar?q=The+mean+wake+model+and+its+novel+characteristic+parameter+of+H-rotor+VAWTs+based+on+random+forest+method+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Dong, Z., Chen, Y., Zhou, D., Su, J., Han, Z., Cao, Y., Bao, Y., Zhao, F., Wang, R. (2022). The mean wake model and its novel characteristic parameter of H-rotor VAWTs based on random forest method. Energy 239, 122456."
+  },
+  {
+    "title": "Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement",
+    "year": 2022,
+    "authors_raw": "Y Chen, L Kuang, J Su, D Zhou, Y Cao, H Chen, Z Han, Y Zhao, S Fu",
+    "venue": "Ocean Engineering 254, 111385",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:_FxGoFyzp5QC",
+    "pdf": "https://scholar.google.com/scholar?q=Investigation+of+pitch+angles+on+the+aerodynamics+of+twin-VAWT+under+staggered+arrangement+filetype%3Apdf",
+    "categories": [
+      "offshore",
+      "ocean"
+    ],
+    "apa": "Chen, Y., Kuang, L., Su, J., Zhou, D., Cao, Y., Chen, H., Han, Z., Zhao, Y., Fu, S. (2022). Investigation of pitch angles on the aerodynamics of twin-VAWT under staggered arrangement. Ocean Engineering 254, 111385."
+  },
+  {
+    "title": "Characterization of wake interference between two tandem offshore floating vertical-axis wind turbines: Effect of platform pitch motion",
+    "year": 2022,
+    "authors_raw": "L Kuang, Q Lu, X Huang, L Song, Y Chen, J Su, Z Han, D Zhou, Y Zhao, ...",
+    "venue": "Energy Conversion and Management 265, 115769",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:roLk4NBRz8UC",
+    "pdf": "https://scholar.google.com/scholar?q=Characterization+of+wake+interference+between+two+tandem+offshore+floating+vertical-axis+wind+turbines%3A+Effect+of+platform+pitch+motion+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Kuang, L., Lu, Q., Huang, X., Song, L., Chen, Y., Su, J., Han, Z., Zhou, D., Zhao, Y. (2022). Characterization of wake interference between two tandem offshore floating vertical-axis wind turbines: Effect of platform pitch motion. Energy Conversion and Management 265, 115769."
+  },
+  {
+    "title": "Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history",
+    "year": 2021,
+    "authors_raw": "Y Chen, Z Dong, Y Wang, J Su, Z Han, D Zhou, K Zhang, Y Zhao, Y Bao",
+    "venue": "Energy Conversion and Management 227, 113559",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:9yKSN-GCB0IC",
+    "pdf": "https://scholar.google.com/scholar?q=Short-term+wind+speed+predicting+framework+based+on+EEMD-GA-LSTM+method+under+large+scaled+wind+history+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Chen, Y., Dong, Z., Wang, Y., Su, J., Han, Z., Zhou, D., Zhang, K., Zhao, Y., Bao, Y. (2021). Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history. Energy Conversion and Management 227, 113559."
+  },
+  {
+    "title": "Framework of airfoil max lift-to-drag ratio prediction using hybrid feature mining and Gaussian process regression",
+    "year": 2021,
+    "authors_raw": "Y Chen, Z Dong, J Su, Y Wang, Z Han, D Zhou, Y Zhao, Y Bao",
+    "venue": "Energy Conversion and Management 243, 114339",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:W7OEmFMy1HYC",
+    "pdf": "https://scholar.google.com/scholar?q=Framework+of+airfoil+max+lift-to-drag+ratio+prediction+using+hybrid+feature+mining+and+Gaussian+process+regression+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Chen, Y., Dong, Z., Su, J., Wang, Y., Han, Z., Zhou, D., Zhao, Y., Bao, Y. (2021). Framework of airfoil max lift-to-drag ratio prediction using hybrid feature mining and Gaussian process regression. Energy Conversion and Management 243, 114339."
+  },
+  {
+    "title": "Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion",
+    "year": 2021,
+    "authors_raw": "J Su, Y Li, Y Chen, Z Han, D Zhou, Y Zhao, Y Bao",
+    "venue": "Energy 225, 120202",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:zYLM7Y9cAGgC",
+    "pdf": "https://scholar.google.com/scholar?q=Aerodynamic+performance+assessment+of+%CF%86-type+vertical+axis+wind+turbine+under+pitch+motion+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Su, J., Li, Y., Chen, Y., Han, Z., Zhou, D., Zhao, Y., Bao, Y. (2021). Aerodynamic performance assessment of φ-type vertical axis wind turbine under pitch motion. Energy 225, 120202."
+  },
+  {
+    "title": "2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model",
+    "year": 2021,
+    "authors_raw": "Y Chen, Y Wang, Z Dong, J Su, Z Han, D Zhou, Y Zhao, Y Bao",
+    "venue": "Energy Conversion and Management 244, 114451",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:eQOLeE2rZwMC",
+    "pdf": "https://scholar.google.com/scholar?q=2-D+regional+short-term+wind+speed+forecast+based+on+CNN-LSTM+deep+learning+model+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Chen, Y., Wang, Y., Dong, Z., Su, J., Han, Z., Zhou, D., Zhao, Y., Bao, Y. (2021). 2-D regional short-term wind speed forecast based on CNN-LSTM deep learning model. Energy Conversion and Management 244, 114451."
+  },
+  {
+    "title": "Three-dimensional wake transition in the flow over four square cylinders at low Reynolds numbers",
+    "year": 2020,
+    "authors_raw": "Y Zhang, R Wang, Y Chen, Y Bao, Z Han, D Zhou, H Ping, S Fu, Y Zhao",
+    "venue": "AIP Advances 10 (1)",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:qjMakFHDy7sC",
+    "pdf": "https://scholar.google.com/scholar?q=Three-dimensional+wake+transition+in+the+flow+over+four+square+cylinders+at+low+Reynolds+numbers+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhang, Y., Wang, R., Chen, Y., Bao, Y., Han, Z., Zhou, D., Ping, H., Fu, S., Zhao, Y. (2020). Three-dimensional wake transition in the flow over four square cylinders at low Reynolds numbers. AIP Advances 10 (1)."
+  },
+  {
+    "title": "Investigation of V-shaped blade for the performance improvement of vertical axis wind turbines",
+    "year": 2020,
+    "authors_raw": "J Su, Y Chen, Z Han, D Zhou, Y Bao, Y Zhao",
+    "venue": "Applied Energy 260, 114326",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:d1gkVwhDpl0C",
+    "pdf": "https://scholar.google.com/scholar?q=Investigation+of+V-shaped+blade+for+the+performance+improvement+of+vertical+axis+wind+turbines+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Su, J., Chen, Y., Han, Z., Zhou, D., Bao, Y., Zhao, Y. (2020). Investigation of V-shaped blade for the performance improvement of vertical axis wind turbines. Applied Energy 260, 114326."
+  },
+  {
+    "title": "A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed",
+    "year": 2020,
+    "authors_raw": "Y Chen, J Su, Z Han, Y Zhao, D Zhou, H Yang, Y Bao, H Lei",
+    "venue": "Renewable Energy 159, 286-299",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:u-x6o8ySG0sC",
+    "pdf": "https://scholar.google.com/scholar?q=A+shape+optimization+of+%CF%95-shape+Darrieus+wind+turbine+under+a+given+range+of+inlet+wind+speed+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Chen, Y., Su, J., Han, Z., Zhao, Y., Zhou, D., Yang, H., Bao, Y., Lei, H. (2020). A shape optimization of ϕ-shape Darrieus wind turbine under a given range of inlet wind speed. Renewable Energy 159, 286-299."
+  },
+  {
+    "title": "Investigation of wake characteristics for the offshore floating vertical axis wind turbines in pitch and surge motions of platforms",
+    "year": 2019,
+    "authors_raw": "H Lei, J Su, Y Bao, Y Chen, Z Han, D Zhou",
+    "venue": "Energy 166, 471-489",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:2osOgNQ5qMEC",
+    "pdf": "https://scholar.google.com/scholar?q=Investigation+of+wake+characteristics+for+the+offshore+floating+vertical+axis+wind+turbines+in+pitch+and+surge+motions+of+platforms+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Lei, H., Su, J., Bao, Y., Chen, Y., Han, Z., Zhou, D. (2019). Investigation of wake characteristics for the offshore floating vertical axis wind turbines in pitch and surge motions of platforms. Energy 166, 471-489."
+  },
+  {
+    "title": "Flow characteristics and dynamic responses of a parked straight‐bladed vertical axis wind turbine",
+    "year": 2019,
+    "authors_raw": "L Kuang, J Su, Y Chen, Z Han, D Zhou, Y Zhao, Z Jiang, Y Bao",
+    "venue": "Energy Science & Engineering 7 (5), 1767-1783",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:Tyk-4Ss8FVUC",
+    "pdf": "https://scholar.google.com/scholar?q=Flow+characteristics+and+dynamic+responses+of+a+parked+straight%E2%80%90bladed+vertical+axis+wind+turbine+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Kuang, L., Su, J., Chen, Y., Han, Z., Zhou, D., Zhao, Y., Jiang, Z., Bao, Y. (2019). Flow characteristics and dynamic responses of a parked straight‐bladed vertical axis wind turbine. Energy Science & Engineering 7 (5), 1767-1783."
+  }
+]

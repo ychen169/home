@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>你的姓名 - Selected</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <nav class="top-nav">
+        <a href="index.html">Home</a>
+        <a href="biography.html">Biography</a>
+        <a href="publication.html">Publication</a>
+        <a class="active" href="selected.html">Selected</a>
+      </nav>
+
+      <div class="home-title-line">Selected</div>
+
+      <h2 class="bio-section-title">Featured Paper</h2>
+      <p class="featured-title">
+        <strong
+          >Beyond a single solution: Multimodal wind farm layout optimization via
+          cluster annealing elite search</strong
+        >
+      </p>
+      <p class="featured-citation">
+        Chen, Y., Dong, Z., Zhang, D., Deng, X., Zhou, D., Zhou, Y., & Peng, Y.
+        (2026). <em>Applied Energy, 414</em>, 127852.
+        [<a
+          href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:GnPB-g6toBAC"
+          target="_blank"
+          rel="noopener noreferrer"
+          >URL</a
+        >]
+      </p>
+
+      <h2 class="bio-section-title">Abstract</h2>
+      <p class="abstract-text">
+        Wind farm layout optimization (WFLO) plays a critical role in maximizing
+        energy output under complex aerodynamic interactions. However, most
+        existing approaches focus on finding a single global optimum, limiting
+        flexibility in practical deployment.
+        <strong>
+          This work proposes a multimodal WFLO framework capable of generating
+          multiple high-quality and structurally diverse layouts within a single
+          optimization process. The method introduces a lineage-consistent
+          evolutionary mechanism based on dynamic clustering and selective
+          retention, enabling diversity preservation without compromising
+          performance. Extensive experiments across five representative wind roses
+          show that the resulting solutions not only surpass the baseline but
+          also exhibit distinct spatial patterns. In addition, the study
+          investigates the origins, energy/wake topology, and potential
+          applications of the obtained layout diversity, while the algorithm also
+          demonstrates strong robustness with performance variation typically
+          within 0.5%.
+        </strong>
+        Overall, the framework provides an interpretable and robust strategy for
+        exploring the multimodal nature of WFLO, offering greater design
+        flexibility for real-world wind farm planning.
+      </p>
+
+      <h2 class="bio-section-title">Highlighted Figures</h2>
+      <figure class="selected-figure">
+        <img
+          src="assets/selected-fig1-objective-evolution.png"
+          alt="Objective evolution process under various wind roses"
+        />
+        <figcaption>
+          <strong>Fig. 1.</strong> Objective evolution process under various wind roses.
+        </figcaption>
+      </figure>
+
+      <figure class="selected-figure">
+        <img
+          class="selected-figure-compact"
+          src="assets/selected-fig3-entropy-distance.png"
+          alt="Relations between assignment distance and entropy across 20 cases"
+        />
+        <figcaption>
+          <strong>Fig. 2.</strong> Relations between assignment distance and entropy
+          across 20 cases.
+        </figcaption>
+      </figure>
+
+      <footer class="footer">
+        Last updated: 2026-04-21
+      </footer>
+    </div>
+  </body>
+</html>
