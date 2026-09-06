@@ -1,5 +1,17 @@
 [
   {
+    "title": "Data-driven Kriging modeling for power optimization in twin-rotor wind farms: A simplified equivalent cooperative yaw strategy",
+    "year": 2026,
+    "authors_raw": "Z Zhang, H Yang, Y Yao, K Zhang, D Zhou, Z Gao, Y Chen, L Duan, Z Han",
+    "venue": "Energy 363, 142231",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ljYwQuMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=ljYwQuMAAAAJ:RGFaLdJalmkC",
+    "pdf": "https://scholar.google.com/scholar?q=Data-driven+Kriging+modeling+for+power+optimization+in+twin-rotor+wind+farms%3A+A+simplified+equivalent+cooperative+yaw+strategy+filetype%3Apdf",
+    "categories": [
+      "offshore"
+    ],
+    "apa": "Zhang, Z., Yang, H., Yao, Y., Zhang, K., Zhou, D., Gao, Z., Chen, Y., Duan, L., Han, Z. (2026). Data-driven Kriging modeling for power optimization in twin-rotor wind farms: A simplified equivalent cooperative yaw strategy. Energy 363, 142231."
+  },
+  {
     "title": "Global optimization of wake steering for large-scale wind farms using generalized serial refinement method",
     "year": 2026,
     "authors_raw": "Y Tu, Z Dong, Y Chen, K Zhang, D Zhou, H Yang",
